@@ -1,6 +1,6 @@
 # Ebuka John
 
-**Digital health & integration engineer** — NigeriaMRS/OpenMRS contributor, health informatics technical lead, ITSM automation builder.
+**Digital health & integration engineer** — NigeriaMRS/OpenMRS contributor · ITSM automation builder · **Senior Service Desk Engineer @ Littlefish UK Ltd**
 
 🌐 [Portfolio](https://ebukajohn.tech) · 💼 [LinkedIn](https://www.linkedin.com/in/ebuka-john-965a15140/) · 📋 [NigeriaMRS case study](https://ebukajohn.tech/projects/openmrs-nigeria)
 
@@ -45,7 +45,11 @@ Enterprise ITSM automation (ServiceNow, Azure AD, Microsoft Graph, FastAPI) — 
 
 - UCSF IGHS NMRS Hackathon, **Mombasa 2023** (Frontend / O3 COVID forms)
 - Global OpenMRS Implementers Conference, **Abuja 2023** (#OMRS23)
-- CCFN/Caritas Nigeria — health informatics technical specialist (2020–2024)
+
+## Experience *(current first)*
+
+- **Littlefish UK Ltd** — Senior Service Desk Engineer (May 2025–present); Service Desk Engineer (Aug 2024–May 2025)
+- **Former:** CCFN/Caritas Nigeria — health informatics technical specialist (2020–2024); open-source NigeriaMRS work from that period remains on GitHub
 
 ---
 
