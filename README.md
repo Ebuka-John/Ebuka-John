@@ -14,26 +14,4 @@ Digital health and integration engineer. NigeriaMRS/OpenMRS contributor. ITSM au
 - OpenMRS 3 hackathon, Mombasa (Mar to Apr 2023), Frontend track. Repo: [openmrs-esm-nmrs](https://github.com/Ebuka-John/openmrs-esm-nmrs). [Agenda](https://ucsf-ighs.notion.site/Agenda-e30f58ad3ca744d8b24a34d8ad9982c1)
 - Global OpenMRS Implementers Conference, Abuja 2023 (#OMRS23)
 
----
-
-## DeskAutomate
-
-ITSM automation with ServiceNow, Azure AD, Microsoft Graph, and FastAPI. Private repo. Write-up on the [portfolio](https://ebukajohn.tech/projects/deskautomate) (internal PoC).
-
----
-
-## Stack
-
-OpenMRS, Python, FastAPI, PHP/Laravel, TypeScript, ServiceNow API, Azure, HL7/FHIR
-
----
-
-## Community
-
-- UCSF IGHS NMRS Hackathon, Mombasa 2023 (Frontend, O3 COVID forms)
-- Global OpenMRS Implementers Conference, Abuja 2023 (#OMRS23)
-
-## Experience
-
-- **Littlefish UK Ltd:** Senior Service Desk Engineer (May 2025 to present). Service Desk Engineer (Aug 2024 to May 2025).
-- **Former, CCFN/Caritas Nigeria:** Health informatics technical specialist (2020 to 2024). NigeriaMRS open-source work from that period is on GitHub.
+More projects, stack, and experience: [ebukajohn.tech](https://ebukajohn.tech)
